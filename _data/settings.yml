@@ -34,18 +34,18 @@ menu_settings:
     - title: 'Home'
       url: /
     - title: 'About me'
-      url: /about.html/
+      url: /about/
     - title: 'Research'
-      url: /research.html/
+      url: /research/
     - title: 'Publications'
-      url: /publications.html/
+      url: /publications/
     - title: 'Blog'
       url: /blog/
     - title: 'CV'
       url: https://drive.google.com/file/d/1noryDRZcGYabK8_RGUSmpP6WQcSnEFvW/view
       target: '_blank'
     - title: 'Contact'
-      url: /contact.html/
+      url: /contact/
 
 footer_settings:
   footer_tagline:
