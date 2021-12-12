@@ -1,0 +1,28 @@
+.btn{
+  // Custom social buttons
+  &.btn-scholar {
+    @include social-buttons-color($scholar, $scholar-states)
+  }
+}
+
+.image-wrapper {
+  text-align: center;
+
+  .image-caption {
+      color: $grey-color;
+      margin-top: $spacing-unit / 3;
+      margin-bottom: 0px;
+  }
+}
+
+.image-right {
+      padding-left: 15px;
+      padding-right: 0px;
+      float: right;
+}
+
+.image-left {
+      padding-left: 0px;
+      padding-right: 15px;
+      float: left;
+}

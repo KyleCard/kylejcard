@@ -1,0 +1,12 @@
+---
+title: Home
+layout: default
+description: Studying resistance evolution in bacteria and cancer using theory, computation, and experimental evolution.
+featured_image: /assets/img/logo.png
+---
+
+{% if site.data.settings.home_settings.theme == "landing" %}
+  {% include home.html %}
+{% endif %}
+
+{% include/news.html %}
