@@ -32,20 +32,20 @@ blog_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      url: '/'
+      url: /
     - title: 'About me'
-      url: '/about/'
+      url: /about/
     - title: 'Research'
-      url: '/research/'
+      url: /research/
     - title: 'Publications'
-      url: '/publications/'
+      url: /publications/
     - title: 'Blog'
-      url: '/blog/'
+      url: /blog/
     - title: 'CV'
-      url: 'https://drive.google.com/file/d/1noryDRZcGYabK8_RGUSmpP6WQcSnEFvW/view'
+      url: https://drive.google.com/file/d/1noryDRZcGYabK8_RGUSmpP6WQcSnEFvW/view
       target: '_blank'
     - title: 'Contact'
-      url: '/contact/'
+      url: /contact/
 
 footer_settings:
   footer_tagline:
