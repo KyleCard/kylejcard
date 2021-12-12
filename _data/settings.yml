@@ -43,7 +43,6 @@ menu_settings:
       url: /blog/
     - title: 'CV'
       url: https://drive.google.com/file/d/1noryDRZcGYabK8_RGUSmpP6WQcSnEFvW/view
-      target: '_blank'
     - title: 'Contact'
       url: /contact/
 
