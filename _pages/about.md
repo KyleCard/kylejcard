@@ -4,7 +4,9 @@ title: About Me
 
 <div class="image-left">
     {% include image.html 
-                img="assets/img/people/card-portrait.jpg" 
+                img="assets/img/people/card-portrait.jpg"
+                width="300"
+                height="327"
                 title="Me" 
                 caption="Kaitlin Walsh / AP Images for HHMI" %}
 </div>
