@@ -7,6 +7,18 @@ title: Publications
 <div class="row">
     <div class="col-md-10">
         <p class="description">
+        Jordan JA, RE Lenski, and <u>KJ  Card</u>. 2022. Idiosyncratic fitness costs of ampicillin-resistant mutants derived from a long-term experiment with <i>Escherichia coli</i>. <i>Antibiotics</i>, 11(3), 347. doi: <a href="https://www.mdpi.com/2079-6382/11/3/347">10.3390/antibiotics11030347</a>.</p>
+    </div>
+    <div class="col-md-2">
+        <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/antibiotics11030347" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    </div>
+</div>
+
+<br>
+
+<div class="row">
+    <div class="col-md-10">
+        <p class="description">
         Weaver DT, BD McElvany, V Gopalakrishnan, <u>KJ Card</u>, D Crozier, A Dhawan, MN Dinh, E Dolson, N Farrokhian, M Hitomi, E Ho, T Jagdish, ES King, JL Cadnum, CJ Donskey, N Krishnan, G Kuzmin, J Li, J Maltas, J Mo, J Pelesko, JA Scarborough, G Sedor, E Tian, GC An, S Diehl, and JG Scott. 2021. UV decontamination of personal protective equipment with idle laboratory biosafety cabinets during the COVID-19 pandemic. <i>PLoS One</i>, 16(7), e0241734. doi: <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241734">10.1371/journal.pone.0241734</a>.</p>
     </div>
     <div class="col-md-2">

@@ -43,5 +43,5 @@ Nonetheless, **it is still not clear how background integrates with demographic 
 <br>
 
 <p align="center">
-  <img src="/assets/img/pages/size-mutation-background.png" width = "800" attribute="Schematic illustration that shows how altering population size and mutation rate parameters may lead to different evolutionary outcomes">
+  <img src="/assets/img/pages/evol-history-plot-facets.png" width = "800" attribute="The effect of starting genotype becomes more pronounced when population sizes are small and mutation rate is high.">
 </p>
